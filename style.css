@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "AvantGardeITCTT Demi";
+    src: url("https://static.wixstatic.com/ufonts/a14841_9061bef7185245bc96bb400cedddbd79/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/a14841_9061bef7185245bc96bb400cedddbd79/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/a14841_9061bef7185245bc96bb400cedddbd79/ttf/file.ttf") format("ttf");
+}
+/*Reset*/
+*{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+html{
+    background-color: #f4e3b8;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/*Barra de navegação*/
+nav{
+    max-width: 1025px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    max-width: 200px;
+}
+.fale-conosco{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+}
+.fale-conosco span{
+    font-size: 16px;
+}
+.fale-conosco a{
+    font-size: 24px;
+}
+/*Primeira section*/
+.img-banner{
+    max-width: 100%;
+}
+/*Segunda section*/
+.segunda-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1024px;
+    padding: 20px 0px;
+}
+.segunda-section img{
+    max-width: 400px;
+}
+.card{
+    background-color: #ffffff;
+    padding: 32px;
+    margin: 20px;
+}
+/*Terceira section*/
+.terceira-section{
+    display: flex;
+    align-items: center;
+}
+.terceira-section div{
+
+}

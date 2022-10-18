@@ -1,0 +1,81 @@
+kd o navegador?
+tá com live server?
+
+TA 
+
+serio ?
+sim kkkk
+
+mds não vi n
+
+linha 146
+a ta isso eu tinha visto mas não entendi pq fizeram
+
+problema entre a cadeira e o teclado kkkk
+kkkkkkkkkkk
+
+calma ae rapidin
+2 mim
+
+so pra conferir o valor que me pediram aqui, vai la
+
+ok
+Problema 1: A tag header tava no final do body ao inves do inicio
+problema 2: A hierarquia do css tava errada: Ele le de cima pra baixo, então a tag * tem que ficar no topo e o @media no fundo
+Problema de verdade: As classes do footer que estão dando problema. Você pode fazer do 0: duplica o footer e não coloca as classes. Criar suas próprias classes CSS e adiciona ao seu footer. Quer resolver essa sozinho ou precisa de ajuda?
+
+blz mano eu tento faze aqui se não toma muito teu tempo ai
+
+eu tô de boa por aqui. Vai fazendo e eu vou olhando.
+
+blz, eu vou ter que mudar as classes la no HTML tbm né ?
+isso, no html você criar outros nomes de classe e no css você dá os atributos delas
+blz
+
+descontar?
+descomentar
+ah, pode. 
+
+malz telefone
+
+de boa
+calma ae não entendi, aqui ele faz o HTML de baixo para cima
+
+html ou css?
+HTML
+
+onde?
+Aqui no codigo, ams acho que tu mudou 
+eu mudei. Tirei o header de baixo
+isso , o chefe disse que ele fica em baixo pra indexar melhor, isso faz sentido ? kkkk
+Não kkkk O header fica em cima. Header = Head = Cabeça. Sacou?
+saquei kkkk queria saber se fazia sentido, ele ta falando aqui que faz assim
+Aqui a gente faz tudo baseado em rankeadmento e indexação. Todas as nossas páginas são com header em cima. Inclusive o proprio consulto careiro faz assim. É a norma do Schema.org
+tu quer que eu mude a classe do footer ?
+
+o problema tá em uma das várias classes do footer e div abaixo da hierarquia. Você pode testar atributo por atributo de cada classe, ou fazer do zero novas classes. Como por exemplo class="novo-footer" .novo-footer{...}
+vou apagando e colocando novos então, não saco muito do CSS 
+Ao invés de apagar, duplica o footer html e cria novas classes css. Pra não se esquecer como tava antes haha
+esse aqui ta no meu pc, tam caô não tem mais um aqui no servidor
+
+qualquer coisa tem o backup
+
+o seguro morreu de velho... 
+
+adiciona uma nova linha no final do código css
+a ta e depois comenta as acima né ?
+
+na teoria não precisa, pq se não chamar no html ela não carrega
+	comé que é mesmo ? esa parada de @ e . ?
+@media é pro responsivo(resumindo), . é pra classes html, # é pra id html e a tag é pra tag(h1{...})
+escreve codigo por codigo. Vai bugar de novo se tu copiar todo o codigo bugado
+mas não conheço rs por isso copiei
+coloca um por um, salva e vê o que faz
+mano isso vai dar um trampo em rs
+nada.. vou te dar um colinha:
+adiciona a quebra de linha lá.. acho que é alt + z
+basicamente isso dai. Pode ler mais sobre na documentação do mozila sobre html e css.
+tendi
+
+tem um erro nessa parte de perguntas frequentes tbm
+

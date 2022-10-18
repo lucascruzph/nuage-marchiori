@@ -1,0 +1,14 @@
+/*
+.novo-footer {
+    grid-area: rodape;/*não precisa*/
+    position: relative !important; /*posição da tag. Só precisa colocar quando você que mudar a posição do elemento. Logo, não precisa nesse caso*/
+    display: flex !important; /*muda o comportamento das tags dentro da div. Por padrão o html coloca tudo embaixo do outro. Com o flex você pode colocar como coluna, um do lado do outro e tal*/
+    flex-direction: column !important;/*aqui você contra o comportamento do flex. Nesse caso, vira uma coluna*/
+    justify-content:flex-end!important;/*a posição do item. Flex end = final da caixa. Basicamente o alinhamento do Wordpad: centralizado, alinhado a esqueda, justificado....*/
+    height: 75px;
+    background-color: #e8ddb5;
+    margin-bottom: 0px !important;
+    padding-bottom: 15px;
+    /*não precisa do important. Ele só tá ai pra sobreescreber o padrão de leitura do css. Consertando o erro de hieraquia do html*/
+}
+*/
